@@ -37,7 +37,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digidon727&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Digidon727&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digidon727&theme=algolia)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Digidon727&theme=dark&background=000000)
 
 
 <table>
