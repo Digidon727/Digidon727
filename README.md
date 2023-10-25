@@ -49,15 +49,7 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-       ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digidon727&theme=algolia)
-    </td>
-    <td>
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Digidon727&theme=algolia)
-    </td>
-  </tr>
-</table>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digidon727&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Digidon727&theme=algolia)
+
 
 
