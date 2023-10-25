@@ -2,7 +2,14 @@
 ---
 ### :man_technologist: Обо мне:
 Я начинающий веб разработчик. Мой обучение в сфере IT началось в 2017 году...
+<p align="center">
 
+ <a  align="center" href="https://mobile.twitter.com/MilindModi15">
+ <img align="center"  alt="Website" src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://mobile.twitter.com/MilindModi15"></a> 
+ <a href="https://www.linkedin.com/in/milind-modi-88a23314b/" align="center" >
+ <img align="center"  alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milind-modi-88a23314b/"></a>
+
+ </p>
 ---
 
 ### 🤝 Социальные сети:
@@ -34,9 +41,8 @@
 ---
 
 ### ⚙️ GitHub статистика:
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digidon727&theme=algolia) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Digidon727&theme=algolia)
+
 
 
 
