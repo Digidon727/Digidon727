@@ -35,22 +35,9 @@
 
 ### ⚙️ GitHub статистика:
 
-<table>
-  <tr>
-    <td>
-       ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digidon727&theme=algolia)
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Digidon727&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+[](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digidon727&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Digidon727&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digidon727&theme=algolia)
 
-
----
-<div>
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digidon727&theme=algolia) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Digidon727&theme=algolia)]
-<div/>
 
 
