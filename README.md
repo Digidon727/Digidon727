@@ -2,7 +2,7 @@
 ---
 ### :man_technologist: Обо мне:
 Я начинающий веб разработчик. Мой обучение в сфере IT началось в 2017 году...
-   <a href="https://www.linkedin.com/in/milind-modi-88a23314b/">LinkedIn</a> | <a href="https://twitter.com/MilindModi15">Twitter</a>
+   <a href=""><img width="35%" align="right" alt="Github" src="/work.gif" /></a>
 ---
 
 ### 🤝 Социальные сети:
