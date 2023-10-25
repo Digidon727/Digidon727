@@ -37,20 +37,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digidon727&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Digidon727&theme=algolia)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Digidon727&theme=dark&background=000000)
 
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Digidon727&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Digidon727&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
-https://github-readme-streak-stats.herokuapp.com/?user=Digidon727&theme=dark&background=000000
 
 
