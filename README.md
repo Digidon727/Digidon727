@@ -37,9 +37,6 @@
 ---
 
 ### ⚙️ GitHub статистика:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digidon727&theme=algolia)
-<img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Digidon727&layout=compact&theme=vision-friendly-dark" />
-
 
 <table>
   <tr>
@@ -52,6 +49,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digidon727&theme=algolia)
