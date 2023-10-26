@@ -1,7 +1,7 @@
 # Привет, меня зовут Иван!
 ---
 ### :man_technologist: Обо мне:
-Я начинающий Фулстек-разработчик. Мой обучение в сфере IT началось в 2017 году. За 4 года в универе были получены базовые представления и понимания, что из себя представляет программирование. Я пробовал себя в разработке игр под Android, изучал такие языки<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, как C++, С#, Python, Java, JavaScript, PHP.
+Я начинающий Full-stack разработчик. Мой обучение в сфере IT началось в 2017 году. За 4 года в универе были получены базовые представления и понимания, что из себя представляет программирование. Я пробовал себя в разработке игр под Android, изучал такие языки<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, как C++, С#, Python, Java, JavaScript, PHP.
 
 <p align="center">
  <img width="600" src="/github-snake.svg" alt="snake"/>
