@@ -51,7 +51,7 @@
 
 ---
 <table>
-  <tr width="1000s" >
+  <tr width="1000" >
     <td>
        <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digidon727&theme=great_gatsby"  />
     </td>
