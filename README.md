@@ -50,5 +50,5 @@
 </table>
 
 ---
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digidon727&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digidon727&theme=great_gatsby)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Digidon727&theme=great_gatsby&utcOffset=8)
