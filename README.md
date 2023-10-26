@@ -50,8 +50,8 @@
 </table>
 
 ---
-<table>
-  <tr width="1000" >
+<table width="1000px">
+  <tr>
     <td>
        <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digidon727&theme=great_gatsby"  />
     </td>
