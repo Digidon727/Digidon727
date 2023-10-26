@@ -11,9 +11,9 @@
 
 - :seedling: Прохожу курс по PHP и Laravel на платформе https://areaweb.su/.
 
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+<!-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.-->
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ivan-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/digidon727) [![Gmail Badge](https://img.shields.io/badge/-ivntik77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivntik77@gmail.com)](mailto:ivntik77@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@digidon727-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/digidon727) [![Gmail Badge](https://img.shields.io/badge/-ivntik77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivntik77@gmail.com)](mailto:ivntik77@gmail.com)
 
 
 ---
