@@ -50,17 +50,7 @@
 </table>
 
 ---
-
-<table>
-  <tr>
-    <td>
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digidon727&theme=great_gatsby)
-    </td>
-    <td>
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Digidon727&theme=great_gatsby&utcOffset=8)
-    </td>
-  </tr>
-</table>
+ <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digidon727&theme=great_gatsby" alt="webDev's Github stats" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digidon727&theme=great_gatsby)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Digidon727&theme=great_gatsby&utcOffset=8)
