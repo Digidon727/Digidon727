@@ -50,7 +50,17 @@
 </table>
 
 ---
- <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digidon727&theme=great_gatsby" alt="webDev's Github stats" />
+<table>
+  <tr>
+    <td>
+       <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digidon727&theme=great_gatsby" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Digidon727&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digidon727&theme=great_gatsby)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Digidon727&theme=great_gatsby&utcOffset=8)
