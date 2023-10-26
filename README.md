@@ -49,4 +49,6 @@
   </tr>
 </table>
 
+---
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digidon727&theme=algolia)
