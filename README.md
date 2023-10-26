@@ -53,10 +53,10 @@
 <table>
   <tr>
     <td>
-       <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digidon727&theme=great_gatsby" alt="webDev's Github stats" />
+       <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digidon727&theme=great_gatsby"  />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Digidon727&theme=great_gatsby&utcOffset=8" />
+      <img height="195px" width="100%" align="right" " src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Digidon727&theme=great_gatsby&utcOffset=8" />
     </td>
   </tr>
 </table>
