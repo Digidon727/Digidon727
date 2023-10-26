@@ -4,7 +4,7 @@
 Я начинающий веб разработчик. Мой обучение в сфере IT началось в 2017 году...
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="/github-snake.svg" alt="snake"/>
 </p>
 <!--
    <a href=""><img width="35%" align="right" alt="Github" src="/work.gif" /></a>
