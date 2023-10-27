@@ -78,11 +78,11 @@
     </tr>
 	<tr>
       <td><a href="#"><b>Проект №2</b></a></td>
-      <td><b>HTML, CSS, JS</b></td>
+      <td><b>HTML, CSS, JS, PHP, MYSQL</b></td>
     </tr>
     <tr>
       <td><a href="#"><b>Проект №3</b></a></td>
-      <td><b>HTML, CSS, JS</b></td>
+      <td><b>HTML, CSS, JS, PHP, LARAVEL, MYSQL</b></td>
     </tr>
   </tbody>
 </table>
