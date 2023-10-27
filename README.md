@@ -69,7 +69,7 @@
       <td><b>08/2022 - xx/2023</b></td>
     </tr>
 	<tr>
-      <td><b> areaweb.su/Laravel — лучшее, что сделал Тейлор</b></td>
+      <td><b> <a href="areaweb.su">areaweb.su</a>/Laravel — лучшее, что сделал Тейлор</b></td>
       <td><b>09/2022 - xx/2023L</b></td>
     </tr>
   </tbody>
