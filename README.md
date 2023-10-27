@@ -4,7 +4,7 @@
 Я начинающий Full-stack разработчик. Мой обучение в сфере IT началось в 2017 году. За 4 года в универе были получены базовые представления и понимания, что из себя представляет программирование. Я пробовал себя в разработке игр под Android, изучал такие языки<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, как C++, С#, Python, Java, JavaScript, PHP.
 
 <p align="center">
- <img width="40" height="40" src="/github-snake.svg" alt="snake"/>
+ <img width="700" src="/github-snake.svg" alt="snake"/>
 </p>
 <!--
    <a href=""><img width="35%" align="right" alt="Github" src="/work.gif" /></a>
@@ -59,7 +59,7 @@
 | areaweb.su/Laravel — лучшее, что сделал Тейлор                  | 09/2022 - xx/2023 |
 
 --- 
-<img width="600"  src="assets/icons8-проект.gif"> Мои проекты:
+<img  width="40" height="40"  src="assets/icons8-проект.gif"> Мои проекты:
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
