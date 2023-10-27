@@ -53,7 +53,7 @@
 </div>
 
 ---
-<img src="assets/work.gif" width="40" height="40">   
+<img align="right" src="assets/work.gif" width="40" height="40">   
  ### 📝 Пройденные курсы:
 
   <table>
