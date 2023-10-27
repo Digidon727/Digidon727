@@ -59,7 +59,7 @@
 | areaweb.su/Laravel — лучшее, что сделал Тейлор                  | 09/2022 - xx/2023 |
 
 --- 
- ### <img src="assets/icons8-проект.gif"> Мои проекты:
+<img width="600"  src="assets/icons8-проект.gif"> Мои проекты:
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
