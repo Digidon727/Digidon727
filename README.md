@@ -61,10 +61,10 @@
 --- 
 
 
-<div vertical-align: middle;>
-	<img width="20" height="20" vertical-align: middle;  src="assets/icons8-проект.gif">
-	<h3 vertical-align: middle;>Мои проекты:</h3>
-</div>
+
+<img width="20" height="20" src="assets/icons8-проект.gif">
+<h3 vertical-align: middle;>Мои проекты:</h3>
+
 <table>
   <thead align="center">
     <tr border: none;>
