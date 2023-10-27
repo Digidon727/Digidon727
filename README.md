@@ -6,7 +6,7 @@
 Во время обучения я познакомился с такими языками программирования, как, С++, С#, JavaScript, Java, PHP. Больше всего мне понравился JavaScript, и я стал погружаться в Frontend разработку. Но этого мне было мало, и я начал изучать PHP, а также начал изучать MySQL и общие понятия база данных. В данные время я практикуюсь на собственных проектах и нахожусь в поиске работы.
 
 <p align="center">
- <img width="700" src="/github-snake.svg" alt="snake"/>
+ <img width="700" src="assets/github-snake.svg" alt="snake"/>
 </p>
 <!--
    <a href=""><img width="35%" align="right" alt="Github" src="/work.gif" /></a>
