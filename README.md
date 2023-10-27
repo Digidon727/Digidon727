@@ -60,8 +60,8 @@
 
 --- 
 
- <!--width="40" height="40"-->
-### <img src="assets/icons8-проект.gif"> Мои проекты: 
+
+<img width="20" height="20" src="assets/icons8-проект.gif"> Мои проекты: 
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
