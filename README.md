@@ -61,9 +61,10 @@
 --- 
 
 
-<div display: flex;
-  align-items: center;><img width="20" height="20" src="assets/icons8-проект.gif">
-<span vertical-align: middle;>Мои проекты:</span></div>
+<div display: flex; align-items: center;>
+	<img width="20" height="20" src="assets/icons8-проект.gif">
+<h3 vertical-align: middle;>Мои проекты:</h3>
+</div>
 
 
 <table>
