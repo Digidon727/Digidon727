@@ -61,9 +61,9 @@
 --- 
 
 
-<div style="display: inline-flex;">
-	<img width="20" height="20"  src="assets/icons8-проект.gif">
-	<h3 style="display: inline-block;">Мои проекты:</h3>
+<div vertical-align: middle;>
+	<img width="20" height="20" vertical-align: middle;  src="assets/icons8-проект.gif">
+	<h3 vertical-align: middle;>Мои проекты:</h3>
 </div>
 <table>
   <thead align="center">
