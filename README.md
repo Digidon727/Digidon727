@@ -61,7 +61,7 @@
 --- 
 
 
-<p> <img width="20" height="20" src="assets/icons8-проект.gif"> Мои проекты: </p>
+<p> <img width="20" height="20" src="assets/icons8-проект.gif">  <h3>Мои проекты:</h3> </p>
 <table>
   <thead align="center">
     <tr border: none;>
