@@ -63,7 +63,7 @@
 
 <div display: flex; align-items: center;>
 	<img width="20" height="20" src="assets/icons8-проект.gif">
-<h3>Мои проекты:</h3>
+<span fon-size: 19px>Мои проекты:</span>
 </div>
 
 
