@@ -63,7 +63,7 @@
 
 <div display: inline-flex;>
 	<img width="20" height="20" src="assets/icons8-проект.gif">
-<p display: inline-block; >Мои проекты:</p>
+	<p display: inline-block; >Мои проекты:</p>
 </div>
 
 
