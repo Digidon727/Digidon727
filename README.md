@@ -67,8 +67,8 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Название</b></td>
-      <td><b>📚 Технологии</b></td>
+      <td><b>📚 Название</b></td>
+      <td><b>🛠 Технологии</b></td>
     </tr>
   </thead>
   <tbody>
