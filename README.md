@@ -111,6 +111,12 @@
 
 ---
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Digidon727/badges/large)
+
+---
+
 ### 📈 GitHub статистика:
 
 <table>
