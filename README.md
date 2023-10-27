@@ -61,9 +61,9 @@
 --- 
 
 
-<div display: flex; align-items: center;>
+<div display: flex; align-items: center; font-size: 29px;>
 	<img width="20" height="20" src="assets/icons8-проект.gif">
-<span font-size: 29px;>Мои проекты:</span>
+<span >Мои проекты:</span>
 </div>
 
 
