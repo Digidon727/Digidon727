@@ -65,7 +65,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>areaweb.su/PHP — из блондинки в PRO (new)</b></td>
+      <td><b><a href="areaweb.su">areaweb.su</a>/PHP — из блондинки в PRO (new)</b></td>
       <td><b>08/2022 - xx/2023</b></td>
     </tr>
 	<tr>
