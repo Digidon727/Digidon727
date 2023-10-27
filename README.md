@@ -63,7 +63,7 @@
 
 <div display: flex; align-items: center; font-size: 29px;>
 	<img width="20" height="20" src="assets/icons8-проект.gif">
-	<span> Мои проекты: </span>
+<h3 display: inline-block; >Мои проекты:</h3>
 </div>
 
 
